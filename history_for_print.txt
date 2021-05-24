@@ -1,0 +1,1000 @@
+ 1006  git merge uc5_popHead_Functions_TDD_based_TC3 
+ 1007  git push dataStructuresProblems uc5_popHead_Functions_TDD_based_TC3 
+ 1008  git push dataStructuresProblems master 
+ 1009  git status 
+ 1010  git checkout uc6_popTail_Function_TDD_based_TC4 
+ 1011  git checkout -b uc6_popTail_Function_TDD_based_TC4 
+ 1012  git status 
+ 1013  git commit -a -m "Added: popTail method and TDD based TC4. TC4 passes."
+ 1014  git push dataStructuresProblems uc6_popTail_Function_TDD_based_TC4 
+ 1015  git status 
+ 1016  git checkout master 
+ 1017  git merge uc6_popTail_Function_TDD_based_TC4 
+ 1018  git push dataStructuresProblems uc6_popTail_Function_TDD_based_TC4 
+ 1019  git checkout -b uc7_search_Function_TDD_based_TC5 
+ 1020  git status 
+ 1021  git stat
+ 1022  git status 
+ 1023  git commit -a -m "Added: Search function and TC5. TC5 is passed."
+ 1024  git status 
+ 1025  git push dataStructuresProblems uc5_popHead_Functions_TDD_based_TC3 
+ 1026  git status 
+ 1027  git push dataStructuresProblems uc7_search_Function_TDD_based_TC5 
+ 1028  git status 
+ 1029  git checkout master 
+ 1030  git merge uc7_search_Function_TDD_based_TC5 
+ 1031  git status 
+ 1032  git push dataStructuresProblems master 
+ 1033  git status 
+ 1034  git checkout -b uc8_To_check_an_insert_node_Test_Case_TC6
+ 1035  git status 
+ 1036  git commit -a -m "Added: TC6 as per UC8 requirement."
+ 1037  git status 
+ 1038  git checkout master 
+ 1039  git merge uc8_To_check_an_insert_node_Test_Case_TC6 
+ 1040  git status 
+ 1041  git push dataStructuresProblems uc8_To_check_an_insert_node_Test_Case_TC6 
+ 1042  git push dataStructuresProblems master 
+ 1043  git status 
+ 1044  git checkout k -b uc8_Delete_Node_Based_On_Node_Data_TDD_based_TC7 
+ 1045  git checkout -b uc8_Delete_Node_Based_On_Node_Data_TDD_based_TC7 
+ 1046  git stata
+ 1047  git status 
+ 1048  git commit -a -m "Added: getSize and deleteNodeByKey methods. TC7 for these methods is passed."
+ 1049  git status 
+ 1050  git push dataStructuresProblems master 
+ 1051  git push dataStructuresProblems uc8_Delete_Node_Based_On_Node_Data_TDD_based_TC7 
+ 1052  git branch -m uc9_Delete_Node_Based_On_Node_Data_TDD_based_TC7 
+ 1053  git status 
+ 1054  git commit -a -m "Renamed: Renamed branch with wrong branch name."
+ 1055  git push dataStructuresProblems uc9_Delete_Node_Based_On_Node_Data_TDD_based_TC7 
+ 1056  git push dataStructuresProblems --delete uc8_Delete_Node_Based_On_Node_Data_TDD_based_TC7 
+ 1057  git status 
+ 1058  git checkout master 
+ 1059  git merge uc9_Delete_Node_Based_On_Node_Data_TDD_based_TC7 
+ 1060  git status 
+ 1061  git push dataStructuresProblems master 
+ 1062  git status 
+ 1063  git checkout -b uc10_Sorted_Linked_List_Implementation 
+ 1064  git status 
+ 1065  git push dataStructuresProblems uc10_Sorted_Linked_List_Implementation 
+ 1066  git status 
+ 1067  git add -A
+ 1068  git commit -a -m "Added: Ordered LinkedList add function. TDD based TC9 passes."
+ 1069  git status 
+ 1070  git push dataStructuresProblems uc10_Sorted_Linked_List_Implementation 
+ 1071  git status 
+ 1072  git checkout master 
+ 1073  git merge uc10_Sorted_Linked_List_Implementation 
+ 1074  git push dataStructuresProblems master 
+ 1075  git status 
+ 1076  git checkout -b uc11_Stack_Using_Linked_List_Implementation
+ 1077  git status 
+ 1078  git add -A
+ 1079  git commit -a -m "Added: LinkedList as Stack implementation. TDD based TC10 passes."
+ 1080  git status 
+ 1081  git checkout master 
+ 1082  git merge uc11_Stack_Using_Linked_List_Implementation 
+ 1083  git status 
+ 1084  git push dataStructuresProblems uc11_Stack_Using_Linked_List_Implementation 
+ 1085  git push dataStructuresProblems master 
+ 1086  git checkout -b uc12_Stack_Using_Linked_List_Peak_Pop_Functions
+ 1087  git status 
+ 1088  git commit -a -m "Added: Peak and Pop operations added in Stack Implementation using LL. TDD based TC11 and TC12 are passed."
+ 1089  git push dataStructuresProblems uc12_Stack_Using_Linked_List_Peak_Pop_Functions 
+ 1090  git checkout master 
+ 1091  git merge uc12_Stack_Using_Linked_List_Peak_Pop_Functions 
+ 1092  git push dataStructuresProblems master 
+ 1093  git status 
+ 1094  git reflog
+ 1095  git log
+ 1096  git branch
+ 1097  sudo add-apt-repository universe
+ 1098  sudo apt update
+ 1099  sudo apt install synaptic
+ 1100  git status 
+ 1101  git init
+ 1102  git config user.name Shubham Phoujdar
+ 1103  git config user.email sm.phoujdar@gmail.com
+ 1104  git status 
+ 1105  git remote add hotelReservationSystemWorkshop https://github.com/sphoujdar/hotelReservationSystemWorkshop.git
+ 1106  git status 
+ 1107  git add -A
+ 1108  git commit -a -m "First Commit: Created Gradle project and pushed to it before starting workshop."
+ 1109  git push hotelReservationSystemWorkshop master 
+ 1110  git status 
+ 1111  git add -A
+ 1112  git commit -a -m "Added: Welcome message. Checked correct compiling of newly created project."
+ 1113  git status 
+ 1114  git push hotelReservationSystemWorkshop master 
+ 1115  git status 
+ 1116  ./ITR.sh
+ 1117  ls
+ 1118  cd Downloads/
+ 1119  cd ITR-1_2020/
+ 1120  ls
+ 1121  ./ITR.sh
+ 1122  chmod 755 ITR.sh
+ 1123  ./ITR.sh
+ 1124  java -version
+ 1125  ls -a
+ 1126  cd ..
+ 1127  ls -a
+ 1128  cd CensusAnalyser/
+ 1129  ls -a
+ 1130  git init
+ 1131  git config user.name Shubham Phoujdar
+ 1132  git config user.email sm.phoujdar@gmail.com
+ 1133  git status 
+ 1134  git remote add censusAnalyserByNarayanBL https://github.com/sphoujdar/censusAnalyserByNarayanBL.git
+ 1135  git status 
+ 1136  git add -A
+ 1137  git commit -a -m "Added: TC1.3 to check for exception when file with wrong extension is provided."
+ 1138  git push censusAnalyserByNarayanBL master 
+ 1139  git status 
+ 1140  git add -A
+ 1141  git commit -a -m "Added: TC1.4 to check for exception when file with wrong delimiter is provided."
+ 1142  git status 
+ 1143  git push censusAnalyserByNarayanBL master 
+ 1144  git status 
+ 1145  git add -A
+ 1146  git commit -a -m "Added: TC1.5 to check for exception when file with wrong header is provided."
+ 1147  git status 
+ 1148  git add -A
+ 1149  git commit -a -m "Refactored: TC1.3 - TC1.5 and catching new exceptions. Old Code was wrong and did not add any new functionality."
+ 1150  git push censusAnalyserByNarayanBL master 
+ 1151  git status 
+ 1152  git add -A
+ 1153  git commit -a -m "Added: TC2.1, Passes. Recreating UC1 and TC1.1 to TC1.5 code for UC2."
+ 1154  git status 
+ 1155  git push censusAnalyserByNarayanBL master 
+ 1156  git status 
+ 1157  git commit -a -m "Added: TC2.2, Passes. Throws corret exception type when wrong file path is providied."
+ 1158  git status 
+ 1159  git push censusAnalyserByNarayanBL master 
+ 1160  git status 
+ 1161  git commit -a -m "Added: TC2.3, Passes. Throws correct exception type when wrong file type is provided."
+ 1162  git status 
+ 1163  git push censusAnalyserByNarayanBL master 
+ 1164  git status 
+ 1165  git commit -a -m "Added: TC2.4, Passes. Throws correct exception type when wrong delimiter is used in file."
+ 1166  git push censusAnalyserByNarayanBL master 
+ 1167  git status 
+ 1168  git commit -a -m "Added and Refactored: TC2.5, Passes. Throws correct exception type when wrong header is provided in file. After further code review realised that TC1.3 and TC2.3 have some issues. Need to show to mentor and get query clarified."
+ 1169  git push censusAnalyserByNarayanBL master 
+ 1170  git status 
+ 1171  mysql
+ 1172  sudo dpkg -i /home/phoujdar/Downloads/mysql-apt-config_0.8.16-1_all.deb 
+ 1173  apt-get update
+ 1174  sudo apt-get update
+ 1175  sudo apt-get install mysql-server
+ 1176  systemctl status mysql
+ 1177  mysql start
+ 1178  sudo apt-get install mysql-server
+ 1179  sudo apt-get update
+ 1180  mysql start
+ 1181  sudo apt-get install mysql-server
+ 1182  sudo apt autoremove
+ 1183  mysql start
+ 1184  mysql status
+ 1185  sudo apt-get install mysql-server
+ 1186  sudo service mysql restart
+ 1187  systemctl status mysql
+ 1188  mysql -u admin -p
+ 1189  mysql -u root -p
+ 1190  sudo apt-get install mysql-shell
+ 1191  sudo apt-get install mysql-workbench-community
+ 1192  git init
+ 1193  git status 
+ 1194  git add -A
+ 1195  git status 
+ 1196  git config user.name Shubham M Phoujdar
+ 1197  git config user.name Shubham Phoujdar
+ 1198  git config user.email sm.phoujdar@gmail.com
+ 1199  git remote add CabInvoiceGenerator https://meet.google.com/mzc-sbcs-njd
+ 1200  git remote set-url  CabInvoiceGenerator https://github.com/sphoujdar/CabInvoiceGenerator.git
+ 1201  git status 
+ 1202  git add -A
+ 1203  git status 
+ 1204  git push CabInvoiceGenerator master
+ 1205  git status 
+ 1206  git push CabInvoiceGenerator master
+ 1207  git commit -m "Added: TC1 which fails."
+ 1208  git push CabInvoiceGenerator master
+ 1209  git status 
+ 1210  git add -A
+ 1211  git commit -m "Refactored: TC1 which passes. Returns correct fare for TC1."
+ 1212  git status 
+ 1213  git commit -m "Added: TC2 which fails."
+ 1214  git commit -a -m "Added: TC2 which fails."
+ 1215  git push CabInvoiceGenerator master
+ 1216  git status 
+ 1217  git commit -a -m "Added: TC2 which passes. Returns correct fare for TC2."
+ 1218  git push CabInvoiceGenerator master
+ 1219  git status 
+ 1220  git add -A
+ 1221  git commit -a -m "Added: TC3 which fails."
+ 1222  git push CabInvoiceGenerator master
+ 1223  git status 
+ 1224  git commit -a -m "Refactored: TC3.1 and TC3.2 which pass. Returns correct Enhanced Invoice for single and multiple rides."
+ 1225  git push CabInvoiceGenerator master
+ 1226  git status 
+ 1227  git add -A
+ 1228  git commit -a -m "Added: TC4 which fails."
+ 1229  git status 
+ 1230  git push CabInvoiceGenerator master
+ 1231  git status 
+ 1232  git commit -a -m "Refactored: TC4 passes now. Can add Rides to user's Ride Repo. Returns correct Enhanced Invoice when User Id is provided."
+ 1233  git status 
+ 1234  git push CabInvoiceGenerator master
+ 1235  git status 
+ 1236  git commit -a -m "Added: TC5 which fails."
+ 1237  git push CabInvoiceGenerator master
+ 1238  git status 
+ 1239  git commit -a -m "Refactored: TC5 passes now. Can add Premium Rate rides and get appropriate Invoice."
+ 1240  git push CabInvoiceGenerator master
+ 1241  git status 
+ 1242  touch status.sh
+ 1243  mysql
+ 1244  mysql -u root
+ 1245  mysql -u root -p
+ 1246  mysql -u root -p status
+ 1247  mysqladmin -u root -p ping
+ 1248  service mysql status
+ 1249  mysql -u root -p
+ 1250  service mysql status
+ 1251  clear
+ 1252  cd /home/phoujdar/BridgeLabz/
+ 1253  ls
+ 1254  cd sh\ Scripts\ MySQL/
+ 1255  ls
+ 1256  ./status.sh
+ 1257  ./status
+ 1258  sudo su
+ 1259  touch SQL\ Commands.txt
+ 1260  touch RPi_Ref_Material.txt
+ 1261  git status 
+ 1262  git init
+ 1263  git remote add sqlQueriesIntroduction https://github.com/sphoujdar/sqlQueriesIntroduction.git
+ 1264  git status 
+ 1265  ls -a
+ 1266  ls -l
+ 1267  rm -rf .git
+ 1268  ls -l
+ 1269  ls -a
+ 1270  cd BridgeLabz/
+ 1271  ls
+ 1272  cd Fellowship\ Files\ -\ Ubuntu\ System/
+ 1273  ls
+ 1274  cd Assignments/
+ 1275  ls
+ 1276  git status 
+ 1277  cd SQL\ Day\ 1/
+ 1278  ls
+ 1279  git init
+ 1280  git remote add sqlQueriesIntroduction https://github.com/sphoujdar/sqlQueriesIntroduction.git
+ 1281  git status 
+ 1282  git add -A
+ 1283  git status 
+ 1284  git push sqlQueriesIntroduction master
+ 1285  git commit -m "Added: UC12 Screenshot for ER Diagram generated by MySQL Workbench."
+ 1286  git config user.name Shubham Phoujdar
+ 1287  git config user.email sm.phoujdar@gmail.com
+ 1288  git commit -m "Added: UC12 Screenshot for ER Diagram generated by MySQL Workbench."
+ 1289  git status 
+ 1290  git push sqlQueriesIntroduction master
+ 1291  git status 
+ 1292  ls -a
+ 1293  cd eclipse-workspace/maven_emp_wage_computation/
+ 1294  ls
+ 1295  git status 
+ 1296  git add -A
+ 1297  git status 
+ 1298  git commit -m "Commit: Pushing some changes done to pom.propertires file. Moving to new repo for IOStream implementations."
+ 1299  git push maven_emp_wage ma
+ 1300  git push maven_emp_wage master 
+ 1301  git remote add ioStreamEmpPayroll https://github.com/sphoujdar/emp_Payroll_IOStream.git
+ 1302  git push ioStreamEmpPayroll master 
+ 1303  ./node
+ 1304  sudo apt install nodejs
+ 1305  node -v
+ 1306  npm -v
+ 1307  sudo apt install npm
+ 1308  sudo apt-get update
+ 1309  sudo apt-get upgrade
+ 1310  npm -v
+ 1311  node -v
+ 1312  curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+ 1313  sudo apt install curl
+ 1314  curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+ 1315  sudo apt-get install -y nodejs
+ 1316  node -v
+ 1317  curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+ 1318  curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash - 
+ 1319  sudo apt-get install -y nodejs
+ 1320  nod e-v
+ 1321  node -v
+ 1322  node -v
+ 1323  cd /home/phoujdar/Downloads/
+ 1324  ls
+ 1325  node employeeWageJavaScript/runnerFile.js 
+ 1326  cd employeeWageJavaScript/
+ 1327  node runnerFile.js 
+ 1328  git init
+ 1329  git remote add employeeWageJavaScript https://github.com/sphoujdar/employeeWageJavaScript.git
+ 1330  git config user.name Shubham Phoujdar
+ 1331  git config user.email sm.phoujdar@gmail.com
+ 1332  git status 
+ 1333  git add -A
+ 1334  git commit -m "First Commit: With 'Hello World' message."
+ 1335  git push clear
+ 1336  git push employeeWageJavaScript 
+ 1337  git push employeeWageJavaScript master 
+ 1338  git checkout -b uc1_Attendance_Check
+ 1339  git status 
+ 1340  node runnerFile.js 
+ 1341  clear
+ 1342  node runnerFile.js 
+ 1343  clear
+ 1344  node runnerFile.js 
+ 1345  clear
+ 1346  git status 
+ 1347  clear
+ 1348  git status 
+ 1349  clear
+ 1350  node runnerFile.js 
+ 1351  clear
+ 1352  node runnerFile.js 
+ 1353  clear
+ 1354  node runnerFile.js 
+ 1355  clear
+ 1356  git status 
+ 1357  clear
+ 1358  node runnerFile.js 
+ 1359  git status 
+ 1360  node runnerFile.js 
+ 1361  clear
+ 1362  node runnerFile.js 
+ 1363  clear
+ 1364  node runnerFile.js 
+ 1365  cd ../regexProblemsJavaScript/
+ 1366  git init
+ 1367  git remote add regexProblemsJavaScript https://github.com/sphoujdar/regexProblemsJavaScript.git
+ 1368  git commit -m "First Commit : To master, inititalisisng repo."
+ 1369  git config --global user.name Shubham Phoujdar
+ 1370  git config --global user.email sm.phoujdar@gmail.com
+ 1371  git commit -m "First Commit : To master, inititalisisng repo."
+ 1372  git add -A
+ 1373  git commit -m "First Commit : To master, inititalisisng repo."
+ 1374  git push regexProblemsJavaScript master 
+ 1375  git checkout -b uc1_FirstName_Pattern
+ 1376  git commit -m "Added : First name pattern matching regex."
+ 1377  git commit -a -m "Added : First name pattern matching regex."
+ 1378  git push regexProblemsJavaScript uc1_FirstName_Pattern 
+ 1379  git checkout master 
+ 1380  git merge uc1_FirstName_Pattern 
+ 1381  git push regexProblemsJavaScript master 
+ 1382  git checkout -b uc2_LastName_Pattern
+ 1383  git commit -a -m "Added : Last name pattern matching regex."
+ 1384  git push regexProblemsJavaScript uc2_LastName_Pattern 
+ 1385  git checkout master 
+ 1386  git merge uc2_LastName_Pattern 
+ 1387  git push regexProblemsJavaScript master 
+ 1388  git checkout -b uc3_Email_Pattern
+ 1389  git commit -a -m "Added : Email pattern matching regex."
+ 1390  git push regexProblemsJavaScript uc3_Email_Pattern 
+ 1391  git checkout master 
+ 1392  git merge uc3_Email_Pattern 
+ 1393  git push regexProblemsJavaScript master 
+ 1394  git checkout -b uc4_Mobile_Number_Pattern
+ 1395  git commit -a -m "Added : Mobile Number pattern matching regex."
+ 1396  git push regexProblemsJavaScript uc4_Mobile_Number_Pattern 
+ 1397  git checkout master 
+ 1398  git merge uc4_Mobile_Number_Pattern 
+ 1399  git push regexProblemsJavaScript master 
+ 1400  git checkout -b uc5_to_uc9_Password_Pattern
+ 1401  git commit -a -m "Added : Password pattern matching regex for all 4 rules (requirement for uc5 to uc8). Included all email sample pattern matching in uc3 so no new commit required for uc9."
+ 1402  git push regexProblemsJavaScript uc5_to_uc9_Password_Pattern 
+ 1403  git checkout master 
+ 1404  git merge uc4_Mobile_Number_Pattern 
+ 1405  git merge uc5_to_uc9_Password_Pattern 
+ 1406  git push regexProblemsJavaScript master 
+ 1407  git status 
+ 1408  git status 
+ 1409  cd employeeWageJavaScript/
+ 1410  git status 
+ 1411  clear
+ 1412  git status 
+ 1413  git push employeeWageJavaScript 
+ 1414  git push employeeWageJavaScript master 
+ 1415  git status 
+ 1416  git push employeeWageJavaScript uc1_Attendance_Check 
+ 1417  git status 
+ 1418  git commit -a -m "Added: Attendance check."
+ 1419  git push employeeWageJavaScript uc1_Attendance_Check 
+ 1420  git status 
+ 1421  git checkout master 
+ 1422  git merge uc1_Attendance_Check 
+ 1423  git status 
+ 1424  git push employeeWageJavaScript master 
+ 1425  git status 
+ 1426  git checkout -b uc2_Calculate_daily_wage
+ 1427  git status 
+ 1428  git push employeeWageJavaScript uc2_Calculate_daily_wage 
+ 1429  git status 
+ 1430  git commit -a -m "Added: First Wage calculation logic."
+ 1431  git push employeeWageJavaScript uc2_Calculate_daily_wage 
+ 1432  git status 
+ 1433  git checkout master 
+ 1434  git merge uc2_Calculate_daily_wage master 
+ 1435  git push employeeWageJavaScript master 
+ 1436  git status 
+ 1437  git checkout -b uc3_Calculate_PartTime_and_FullTime_wage
+ 1438  git status 
+ 1439  git push employeeWageJavaScript uc3_Calculate_PartTime_and_FullTime_wage 
+ 1440  git status 
+ 1441  git commit -a -m "Added: Part Time Wage calculation logic."
+ 1442  git push employeeWageJavaScript uc3_Calculate_PartTime_and_FullTime_wage 
+ 1443  git status 
+ 1444  git checkout master 
+ 1445  git merge uc3_Calculate_PartTime_and_FullTime_wage 
+ 1446  git push employeeWageJavaScript master 
+ 1447  git status 
+ 1448  git checkout -b uc4_Switch_Case_Statement
+ 1449  git status 
+ 1450  clear
+ 1451  git commit -a -m "Added: Switch-Case statement."
+ 1452  git status 
+ 1453  git push employeeWageJavaScript uc4_Switch_Case_Statement 
+ 1454  git checkout master 
+ 1455  git merge uc4_Switch_Case_Statement 
+ 1456  git push employeeWageJavaScript master 
+ 1457  git status 
+ 1458  git checkout -b uc5_Wage_calculation_for_a_month 
+ 1459  git push employeeWageJavaScript uc5_Wage_calculation_for_a_month 
+ 1460  git status 
+ 1461  git commit -a -m "Added: Monthly wage calculation."
+ 1462  git push employeeWageJavaScript uc5_Wage_calculation_for_a_month 
+ 1463  git status 
+ 1464  git checkout master 
+ 1465  git merge uc5_Wage_calculation_for_a_month 
+ 1466  git push employeeWageJavaScript master 
+ 1467  git checkout -b uc6_Custom_wage_limiting_condition 
+ 1468  git push employeeWageJavaScript uc6_Custom_wage_limiting_condition 
+ 1469  git status 
+ 1470  git commit -a -m "Added: Custom wage calculation condition added."
+ 1471  git push employeeWageJavaScript uc6_Custom_wage_limiting_condition 
+ 1472  git checkout master 
+ 1473  git merge uc6_Custom_wage_limiting_condition 
+ 1474  git push employeeWageJavaScript master 
+ 1475  git checkout -b uc7_Get_Work_Hours_Function
+ 1476  git status 
+ 1477  git commit -a -m "Refactored: Function added to getWorkHours."
+ 1478  git push employeeWageJavaScript uc7_Get_Work_Hours_Function 
+ 1479  git checkout master 
+ 1480  git merge uc7_Get_Work_Hours_Function 
+ 1481  git push employeeWageJavaScript master 
+ 1482  git checkout -b uc8_Store_DailyWage_and_TotalWage
+ 1483  git push employeeWageJavaScript uc8_Store_DailyWage_and_TotalWage 
+ 1484  git commit -a -m "Refactored: Can store daily log as requested."
+ 1485  git push employeeWageJavaScript uc8_Store_DailyWage_and_TotalWage 
+ 1486  git checkout master 
+ 1487  git merge uc8_Store_DailyWage_and_TotalWage 
+ 1488  git push employeeWageJavaScript master 
+ 1489  git checkout -b uc9_Store_TotalWage
+ 1490  git push employeeWageJavaScript uc9_Store_TotalWage 
+ 1491  git commit -a -m "Refactored: Can store monthly total as requested."
+ 1492  git push employeeWageJavaScript uc9_Store_TotalWage 
+ 1493  git checkout master 
+ 1494  git merge uc9_Store_TotalWage 
+ 1495  git push employeeWageJavaScript master 
+ 1496  git commit -a -m "Refactored: Removed unnecessary comments and newlines."
+ 1497  git status 
+ 1498  git push employeeWageJavaScript master 
+ 1499  git commit -a -m "Refactored: Added function for generating random. Removed some if else statements and included it in the swicth statement. Optimised code to terminate immediately when maxHours reached."
+ 1500  git push employeeWageJavaScript master 
+ 1501  git status 
+ 1502  clear
+ 1503  git status 
+ 1504  cd ../regexProblemsJavaScript/
+ 1505  git status 
+ 1506  clear
+ 1507  cd ../workspace-one/playgroundJS/
+ 1508  cd /workspace-one/playgroundJS/
+ 1509  cd /workspace-one/playgroundJS
+ 1510  cd /workspace-one/
+ 1511  ls
+ 1512  cd playgroundJS/
+ 1513  ls
+ 1514  ~~~ cd /home/phoujdar/workspace-one ; /usr/bin/env 'NODE_OPTIONS=--require /usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/bootloader.bundle.js --inspect-publish-uid=http' 'VSCODE_INSPECTOR_OPTIONS={"inspectorIpc":"/tmp/node-cdp.71352-224.sock","deferredMode":false,"waitForDebugger":"","execPath":"/usr/bin/node","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"/tmp/node-debug-callback-a941b1eaabf41fc6"}' /usr/bin/node ./playgroundJS/warmUp.js 
+ 1515  clear
+ 1516  clear cd /home/phoujdar/workspace-one ; /usr/bin/env 'NODE_OPTIONS=--require /usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/bootloader.bundle.js --inspect-publish-uid=http' 'VSCODE_INSPECTOR_OPTIONS={"inspectorIpc":"/tmp/node-cdp.71352-301.sock","deferredMode":false,"waitForDebugger":"","execPath":"/usr/bin/node","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"/tmp/node-debug-callback-2297dd66e53cdcec"}' /usr/bin/node ./playgroundJS/warmUp.js 
+ 1517  clear
+ 1518  cd gamblerProblemJavaScript/
+ 1519  ls
+ 1520  git init
+ 1521  git status 
+ 1522  git add -A
+ 1523  git remote add gamblerProblemJavaScript https://github.com/sphoujdar/gamblerProblemJavaScript.git
+ 1524  git status 
+ 1525  git commit -a -m "First Commit : Print Message."
+ 1526  git push gamblerProblemJavaScript master 
+ 1527  git status 
+ 1528  git checkout -b uc1_Single_Bet_logic
+ 1529  git commit -a -m "Added : Single Bet logic."
+ 1530  git push gamblerProblemJavaScript uc1_Single_Bet_logic 
+ 1531  git checkout master 
+ 1532  git merge uc1_Single_Bet_logic 
+ 1533  git push gamblerProblemJavaScript master 
+ 1534  git checkout -b uc2_Win_Loss_Score
+ 1535  git commit -a -m "Refactored : Stores Score of total wins and losses."
+ 1536  git push gamblerProblemJavaScript uc2_Win_Loss_Score 
+ 1537  git checkout master 
+ 1538  git merge uc2_Win_Loss_Score 
+ 1539  git push gamblerProblemJavaScript master 
+ 1540  git checkout -b uc3_Gamble_For_A_Day
+ 1541  git commit -a -m "Added : Playing logic for a month added."
+ 1542  git push gamblerProblemJavaScript uc3_Gamble_For_A_Day 
+ 1543  git checkout master 
+ 1544  git merge uc3_Gamble_For_A_Day 
+ 1545  git push gamblerProblemJavaScript master 
+ 1546  git checkout -b uc3_Gamble_For_Multiple_Days
+ 1547  git branch -m uc4_Gamble_For_Multiple_Days
+ 1548  git status 
+ 1549  git push gamblerProblemJavaScript uc4_Gamble_For_Multiple_Days 
+ 1550  git status 
+ 1551  git commit -a -m "Added : Playing Logic for multiple days added. Corrected terminate condition in past UC as well."
+ 1552  git push gamblerProblemJavaScript  uc4_Gamble_For_Multiple_Days 
+ 1553  git checkout master 
+ 1554  git merge uc4_Gamble_For_Multiple_Days 
+ 1555  git push gamblerProblemJavaScript master 
+ 1556  git checkout -b uc5_Days_Won_And_Lost_Log
+ 1557  git commit -a -m "Added : Maintaining daysLog and then retrieving Win/Loss days from it."
+ 1558  git push gamblerProblemJavaScript  uc5_Days_Won_And_Lost_Log 
+ 1559  git checkout master 
+ 1560  git merge uc5_Days_Won_And_Lost_Log 
+ 1561  git push gamblerProblemJavaScript master 
+ 1562  git checkout -b uc6_Find_Luckiest_And_Unluckiest_Day
+ 1563  git commit -a -m "Added : Finding Luckiest and unluckiest day from daysLog."
+ 1564  git push gamblerProblemJavaScript  uc6_Find_Luckiest_And_Unluckiest_Day
+ 1565  git checkout master 
+ 1566  git merge uc6_Find_Luckiest_And_Unluckiest_Day 
+ 1567  git push gamblerProblemJavaScript master 
+ 1568  git checkout -b uc7_Play_Again_If_No_Loss_In_Past_Month
+ 1569  git commit -a -m "Added : Gambler plays another month if he has not lost in past month."
+ 1570  git push gamblerProblemJavaScript  uc7_Play_Again_If_No_Loss_In_Past_Month 
+ 1571  git checkout master 
+ 1572  git merge uc7_Play_Again_If_No_Loss_In_Past_Month 
+ 1573  git push gamblerProblemJavaScript master 
+ 1574  cd ../dataStructuresJS/
+ 1575  git init
+ 1576  git remote add linkedListInJavaScript https://github.com/sphoujdar/linkedListInJavaScript.git
+ 1577  git status 
+ 1578  git add linkedListInJavaScript.js
+ 1579  git commit -m "First Commit : Printing simple message."
+ 1580  git push linkedListInJavaScript master 
+ 1581  git status 
+ 1582  git push linkedListInJavaScript master 
+ 1583  git commit -m "First Commit : Printing simple message."
+ 1584  git commit -a -m "First Commit : Printing simple message."
+ 1585  git commit -m "First Commit : Printing simple message."
+ 1586  git push linkedListInJavaScript master 
+ 1587  git status 
+ 1588  git branch -b uc1_Add_Node_To_End_Of_LinkedList
+ 1589  git checkout -b uc1_Add_Node_To_End_Of_LinkedList
+ 1590  git commit -a -m "Added : Add Note to End."
+ 1591  git push linkedListInJavaScript uc1_Add_Node_To_End_Of_LinkedList 
+ 1592  git checkout master 
+ 1593  git merge uc1_Add_Node_To_End_Of_LinkedList 
+ 1594  git push linkedListInJavaScript master 
+ 1595  git checkout -b uc2_Get_Size_Of_List
+ 1596  git commit -a -m "Added : Get size of linked list."
+ 1597  git push linkedListInJavaScript uc2_Get_Size_Of_List 
+ 1598  git checkout master 
+ 1599  git merge uc2_Get_Size_Of_List 
+ 1600  git push linkedListInJavaScript master 
+ 1601  git checkout -b uc3_Remove_Node_By_Position
+ 1602  git commit -a -m "Added : Remove Node by position from LinkedList function added."
+ 1603  git checkout master 
+ 1604  git merge uc3_Remove_Node_By_Position 
+ 1605  git push linkedListInJavaScript uc3_Remove_Node_By_Position 
+ 1606  git push linkedListInJavaScript master 
+ 1607  git checkout -b uc4_Insert_Node_By_Position
+ 1608  git commit -a -m "Added : Insert Node by position in LinkedList - function added."
+ 1609  git push linkedListInJavaScript uc4_Insert_Node_By_Position 
+ 1610  git checkout master 
+ 1611  git merge uc4_Insert_Node_By_Position 
+ 1612  git push linkedListInJavaScript master 
+ 1613  git checkout -b uc5_Delete_Node_By_Data
+ 1614  cd dataStructuresJS/
+ 1615  git status 
+ 1616  git commit -a -m "Added : Remove Node by data in LinkedList - function added."
+ 1617  git push linkedListInJavaScript uc5_Delete_Node_By_Data 
+ 1618  git checkout master 
+ 1619  git merge uc5_Delete_Node_By_Data 
+ 1620  git push linkedListInJavaScript master 
+ 1621  npm -v
+ 1622  npm install -g json-server
+ 1623  sudo npm install -g json-server
+ 1624  json-server -v
+ 1625  git status 
+ 1626  npm install -g npm@7.11.0
+ 1627  sudo npm install -g npm@7.11.0
+ 1628  npm -v
+ 1629  npm -install jquery
+ 1630  npm install jquery
+ 1631  npm install jsdom
+ 1632  json-server status
+ 1633  man json-server
+ 1634  json-server -v
+ 1635  json-server -vv
+ 1636  json-server --v
+ 1637  json-server -s
+ 1638  json-server --watch db.json
+ 1639  ./employeeManagementSystem/assets/
+ 1640  cd ./employeeManagementSystem/assets/
+ 1641  ls
+ 1642  json-server --watch db.json 
+ 1643  cd ../workspace-one/employeeManagementSystem/assets/
+ 1644  ls
+ 1645  json-server --watch db.json 
+ 1646  ./employeeManagementSystem/assets/
+ 1647  ls
+ 1648  cd ..
+ 1649  ls
+ 1650  cd workspace-one/employeeManagementSystem/
+ 1651  ls
+ 1652  cd assets/
+ 1653  ls
+ 1654  cd ./employeeManagementSystem/assets/
+ 1655  ls
+ 1656  json-server --watch db.json 
+ 1657  npm i bootstrap-icons
+ 1658  ls
+ 1659  cd employeeManagementSystem/
+ 1660  ls
+ 1661  git init
+ 1662  git add -A
+ 1663  ls
+ 1664  git status 
+ 1665  git commit -a -m "First Commit : Completed all UI, Design and CSS part."
+ 1666  git remote add employeeManagementSystemApp https://github.com/sphoujdar/employeeManagementSystemApp.git
+ 1667  git push employeeManagementSystemApp master 
+ 1668  git checkout -b Delete_User_Operation
+ 1669  git commit -m "Added : Delete User Operation."
+ 1670  git commit -a -m "Added : Delete User Operation."
+ 1671  git push employeeManagementSystemApp Delete_User_Operation 
+ 1672  git checkout master 
+ 1673  git merge Delete_User_Operation 
+ 1674  git checkout -b Add_User_Operation
+ 1675  git push employeeManagementSystemApp Add_User_Operation 
+ 1676  git status 
+ 1677  ./employeeManagementSystem/assets/
+ 1678  ls
+ 1679  cd ./employeeManagementSystem/assets/
+ 1680  ls
+ 1681  json-server --watch db.json 
+ 1682  cd ./employeeManagementSystem/
+ 1683  git status 
+ 1684  git commit -a -m "Added : Add User function"
+ 1685  git status 
+ 1686  git push employeeManagementSystemApp Add_User_Operation 
+ 1687  git checkout master 
+ 1688  git merge Add_User_Operation 
+ 1689  git push employeeManagementSystemApp master 
+ 1690  git checkout -b Update_Employee_Information_Operation
+ 1691  git push employeeManagementSystemApp Update_Employee_Information_Operation 
+ 1692  sudo ng add @angular/material
+ 1693  cd ./employeeManagementSystem/
+ 1694  ls
+ 1695  git status 
+ 1696  ./employeeManagementSystem/assets/
+ 1697  cd ./employeeManagementSystem/assets/
+ 1698  ls
+ 1699  json-server db.json 
+ 1700  ls
+ 1701  json-server --watch db.json 
+ 1702  ng serve
+ 1703  cd ./workspace-one/
+ 1704  ls
+ 1705  mkdir fundooNotesAngular
+ 1706  cd fundooNotesAngular/
+ 1707  nd new fundooNotes
+ 1708  ng new fundooNotes
+ 1709  npm install -g @angular/cli
+ 1710  sudo npm install -g @angular/cli
+ 1711  ls
+ 1712  cd ./workspace-one/fundooNotesAngular/
+ 1713  nd new fundooNotes
+ 1714  ng new fundooNotes
+ 1715  sudo ng new fundooNotes
+ 1716  cd ..
+ 1717  ls
+ 1718  mkdir firstAngularProject
+ 1719  ls
+ 1720  cd firstAngularProject/
+ 1721  sudo ng new fundooNotes
+ 1722  ls
+ 1723  cd fundooNotes/
+ 1724  ls
+ 1725  cd ..
+ 1726  ls
+ 1727  cd /home/phoujdar/workspace-one/
+ 1728  ls
+ 1729  rm -r firstAngularProject/
+ 1730  sudo rm -r firstAngularProject/
+ 1731  ls
+ 1732  cd ./assets/
+ 1733  json-server --watch db.json 
+ 1734  ng serve
+ 1735  ng --version
+ 1736  nd -version
+ 1737  ng -version
+ 1738  ng --version
+ 1739  ng add @clr/angular
+ 1740  ng serve
+ 1741  json-server --watch db.json 
+ 1742  mkdir register
+ 1743  cd ./register/
+ 1744  ng generate component register
+ 1745  ls
+ 1746  cd ..
+ 1747  ls
+ 1748  ng g c resetPassword
+ 1749  ng g c forgot-password
+ 1750  ng g c fundoo-logo
+ 1751  cd ..
+ 1752  git status 
+ 1753  git remote add fundooNotesAngular https://github.com/sphoujdar/fundooNotesAngular.git
+ 1754  git commit -a -m "First Commit : All registeration process related pages UI part."
+ 1755  git push fundooNotesAngular master 
+ 1756  git status 
+ 1757  git add -A
+ 1758  git status 
+ 1759  git commit -a -m "First Commit : All registeration process related pages UI part."
+ 1760  git push fundooNotesAngular master 
+ 1761  git status 
+ 1762  git commit -a -m "Refactored : Vertical Center alignment."
+ 1763  git push fundooNotesAngular master 
+ 1764  git checkout -b dataBinding_Angular
+ 1765  git push fundooNotesAngular dataBinding_Angular 
+ 1766  npm start
+ 1767  ng generate component register
+ 1768  ng generate component login
+ 1769  cd ..
+ 1770  npm install @angular/flex-layout@latest --save
+ 1771  ng g s userService
+ 1772  ng g s httpService
+ 1773  ng g s httpService
+ 1774  ng g s userService
+ 1775  spm start
+ 1776  npm start
+ 1777  git status 
+ 1778  git commit -a -m "Added: Data entered in form is now validates and received from ts file logic for all components. Using one-way data binding from ReactiveForms."
+ 1779  git push fundooNotesAngular dataBinding_Angular 
+ 1780  git status 
+ 1781  git checkout master 
+ 1782  git merge dataBinding_Angular 
+ 1783  git status 
+ 1784  git push fundooNotesAngular master 
+ 1785  git status 
+ 1786  git checkout -b API_Calling
+ 1787  git push fundooNotesAngular API_Calling 
+ 1788  git status 
+ 1789  ng serve
+ 1790  npm update
+ 1791  git status 
+ 1792  git commit -a -m "Added: API calling for Login, Reset and SignUp working. UI changes and tasks given in Review completed. Regex Validation Added."
+ 1793  git push fundooNotesAngular API_Calling 
+ 1794  git status 
+ 1795  git push fundooNotesAngular API_Calling 
+ 1796  git commit -a -m "Added: API calling for Login, Reset and SignUp working. UI changes and tasks given in Review completed. Regex Validation Added."
+ 1797  git push fundooNotesAngular API_Calling 
+ 1798  git checkout master 
+ 1799  git merge API_Calling 
+ 1800  git push fundooNotesAngular master 
+ 1801  git checkout API_Calling 
+ 1802  npm start
+ 1803  git status 
+ 1804  git commit -a -m "Refactored : Reset password API works now."
+ 1805  git push fundooNotesAngular API_Calling 
+ 1806  git checkout master 
+ 1807  git merge API_Calling 
+ 1808  git push fundooNotesAngular master 
+ 1809  git checkout -b Dashboard_UI
+ 1810  git push fundooNotesAngular Dashboard_UI 
+ 1811  git status 
+ 1812  git commit -a -m "Added : @media queries in SCSS and other Inline HTML fxLayout queries to make register page responsive to Mobile."
+ 1813  git push fundooNotesAngular Dashboard_UI 
+ 1814  npm start
+ 1815  cd src/app/components/
+ 1816  ng g c dashboard
+ 1817  ng g c top-nav-bar
+ 1818  ng g c side-nav-bar
+ 1819  ng g c take-a-note-card
+ 1820  cd ../../..
+ 1821  ls
+ 1822  npm install @clr/icons --save
+ 1823  npm audit
+ 1824  npm audit fix --force
+ 1825  npm audit
+ 1826  npm audit fix --force
+ 1827  npm install @webcomponents/custom-elements@1.0.0 --save
+ 1828  git status 
+ 1829  git add -A
+ 1830  git status 
+ 1831  git commit -a -m "Added : Component Strcuture for dashboard. Basic navbar, needs lot of changes. SVGs for icons."
+ 1832  git status 
+ 1833  git push fundooNotesAngular Dashboard_UI 
+ 1834  npm start
+ 1835  sudo apt-get install gpick
+ 1836  ng build
+ 1837  npm start
+ 1838  git status 
+ 1839  git add -A
+ 1840  git commit -a -m "Refactored : Last commit of the day, Some UI work on create-note component done. Some UI work on sideBar attempted but will take new approach tomorrow as clarity component not working well."
+ 1841  git status 
+ 1842  git push fundooNotesAngular Dashboard_UI 
+ 1843  git status 
+ 1844  git add -A
+ 1845  git commit -a -m "Refactored : Half part of create-note component done."
+ 1846  git push fundooNotesAngular Dashboard_UI 
+ 1847  git status 
+ 1848  git add -A
+ 1849  git commit -a -m "Added : Completed UI part of create-note component."
+ 1850  git push fundooNotesAngular Dashboard_UI 
+ 1851  git status 
+ 1852  ng add @clr/angular
+ 1853  ng build
+ 1854  npm start
+ 1855  sudo apt-get update
+ 1856  sudo apt-get install code
+ 1857  ng g c note-card
+ 1858  ls
+ 1859  cd src/app/components/
+ 1860  ng g c note-card
+ 1861  git status 
+ 1862  git commit -a -m "Added : Completed UI part of side_bar component. Collapse functionality from top bar not added yet. Will study data sharing first and then add that."
+ 1863  git status 
+ 1864  git push fundooNotesAngular Dashboard_UI 
+ 1865  git status 
+ 1866  git add -A
+ 1867  git status 
+ 1868  git commit -a -m "Added : UI part of fundooNotes completed. API calling, data-sharing functionality, authguard is pending."
+ 1869  git push fundooNotesAngular Dashboard_UI 
+ 1870  git checkout master 
+ 1871  git merge Dashboard_UI 
+ 1872  git push fundooNotesAngular master 
+ 1873  git checkout -b CRUD-Functionality
+ 1874  git push fundooNotesAngular CRUD-Functionality 
+ 1875  git status 
+ 1876  git add -A
+ 1877  git commit -a -m "Added : Components for sideBar menu. Routing to these child components configured."
+ 1878  git status 
+ 1879  git push fundooNotesAngular CRUD-Functionality 
+ 1880  git status 
+ 1881  git commit -a -m "Added : Data sharing between components implemented for toggling sideNavBar. Parent to child and child to parent sharing both implemented."
+ 1882  git push fundooNotesAngular CRUD-Functionality 
+ 1883  ng g s dataSharing
+ 1884  cd src/app/service/
+ 1885  ng g s dataSharing
+ 1886  cd ../
+ 1887  cd components/
+ 1888  ng g c displayNote
+ 1889  ng g c trashComponent
+ 1890  ng g c archive
+ 1891  ng g c reminders
+ 1892  npm start
+ 1893  git status 
+ 1894  git commit -a -m "Refactored : Pushing once for backup before doing SSR implementation."
+ 1895  git status 
+ 1896  git push fundooNotesAngular CRUD-Functionality 
+ 1897  git status 
+ 1898  git checkout -b ServerSideRendering
+ 1899  git branch
+ 1900  ng add @nguniversal/express-engine
+ 1901  ng add @nguniversal/express-engine@11.2.1
+ 1902  npm install --force
+ 1903  ng add @nguniversal/express-engine
+ 1904  npm -v
+ 1905  ng add @nguniversal/express-engine --force
+ 1906  node -v
+ 1907  npm -v
+ 1908  git checkout CRUD-Functionality 
+ 1909  npm start
+ 1910  clear
+ 1911  ng g guard auth
+ 1912  ng g guard auth/loginAuth
+ 1913  git status 
+ 1914  git add -A
+ 1915  git commit -a -m "Added: AuthGuard for navigation to dashboard after login. Checking only existance of token, not validity of it in backend."
+ 1916  git status 
+ 1917  git push fundooNotesAngular CRUD-Functionality 
+ 1918  git status 
+ 1919  git commit -a -m "Added: Directives *ngFor used for printing multiple cardComponents. Can Iterate over JSON array for that."
+ 1920  git status 
+ 1921  git push fundooNotesAngular CRUD-Functionality 
+ 1922  git status 
+ 1923  git commit -a -m "refactored: Last commit of the day. Working on getting note from API."
+ 1924  git status 
+ 1925  git push fundooNotesAngular CRUD-Functionality 
+ 1926  ng serve
+ 1927  npm start
+ 1928  git status 
+ 1929  git commit -a -m "Added: Get notes from API works."
+ 1930  git status 
+ 1931  git push fundooNotesAngular CRUD-Functionality 
+ 1932  git checkout master 
+ 1933  git merge CRUD-Functionality 
+ 1934  git push fundooNotesAngular master 
+ 1935  git checkout CRUD-Functionality 
+ 1936  git status 
+ 1937  ipconfig
+ 1938  ifconfig
+ 1939  ip addr show
+ 1940  afconfig
+ 1941  ifconfig
+ 1942  sudo apt install net-tools
+ 1943  ifconfig
+ 1944  ng serve
+ 1945  ng serve --port 4201
+ 1946  ng serve --host 0.0.0.0 --port 4201
+ 1947  clear
+ 1948  ng g c topNavBar
+ 1949  ng g c footerBar
+ 1950  ng g c mainDisplay
+ 1951  ng g c bookCardForShop
+ 1952  ng g c pageNavigationBar
+ 1953  ng g c homePage
+ 1954  cd ../../..
+ 1955  ng add @clr/angular
+ 1956  ng add @angular/material
+ 1957  ng add
+ 1958  npm start
+ 1959  git init
+ 1960  cd bookStoreAngular/
+ 1961  git status 
+ 1962  git remote add bookStoreAngular https://github.com/sphoujdar/bookStoreAngular.git
+ 1963  git push bookStoreAngular master 
+ 1964  git status 
+ 1965  git add -A
+ 1966  git commit -a -m "Added: Basic Project component Structure. topNavBar and footerBar components UI completed."
+ 1967  git status 
+ 1968  git push bookStoreAngular master 
+ 1969  git checkout -b adminUI
+ 1970  git status 
+ 1971  ng new bookStoreAngular
+ 1972  npm install
+ 1973  ng serve
+ 1974  ng new bookStoreAngular
+ 1975  npm -v
+ 1976  npm install -g npm@6
+ 1977  sudo npm install -g npm@6
+ 1978  ng new bookStoreAngular
+ 1979  ng serve
+ 1980  cd bookStoreAngular/
+ 1981  ng serve
+ 1982  ng serve --host 0.0.0.0
+ 1983  sudo apt-get install inkscape
+ 1984  npm start
+ 1985  git status 
+ 1986  git commit -a -m "Added: Create note completed."
+ 1987  git push fundooNotesAngular CRUD-Functionality 
+ 1988  git status 
+ 1989  git commit -a -m "Added: Update note completed."
+ 1990  git push fundooNotesAngular CRUD-Functionality 
+ 1991  git status 
+ 1992  git commit -a -m "Added: Delete note completed."
+ 1993  git status 
+ 1994  git push fundooNotesAngular CRUD-Functionality 
+ 1995  git status 
+ 1996  ng serve --port 4201
+ 1997  ng serve
+ 1998  ng serve --port 4201
+ 1999  npm init
+ 2000  npm i webpack --save
+ 2001  webpack
+ 2002  sudo apt install webpack
+ 2003* 
+ 2004  npm start
+ 2005  history > history_for_print.txt

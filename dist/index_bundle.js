@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("First Message");const e=document.getElementById("test");console.log("Index Message"),e.innerHTML="Hello"})();
